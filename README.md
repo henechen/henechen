@@ -53,6 +53,8 @@
 
 ###
 
+<br clear="both">
+
 <img href="https://raw.githubusercontent.com/henechen/henechen/blob/output/snake.svg" alt="Snake animation" />
 
 ###
