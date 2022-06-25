@@ -53,12 +53,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/henechen/henechen/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/cd/12/88/cd128859fb87bcf239966efa6a847ab0.gif"  />
 </div>
